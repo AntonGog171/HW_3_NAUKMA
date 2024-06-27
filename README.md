@@ -70,7 +70,7 @@ A folder with models weights.
 
    ```bash
    git clone https://github.com/AntonGog171/HW_3_NAUKMA
-   cd Anadea-Test-Task
+   cd HW_3_NAUKMA
    pip install -r requirements.txt
 ```
 
