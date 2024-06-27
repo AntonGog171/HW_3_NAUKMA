@@ -69,7 +69,7 @@ A folder with models weights.
  Clone the Repository and install dependancies
 
    ```bash
-   git clone https://github.com/AntonGog171/Anadea-Test-Task
+   git clone https://github.com/AntonGog171/HW_3_NAUKMA
    cd Anadea-Test-Task
    pip install -r requirements.txt
 ```
